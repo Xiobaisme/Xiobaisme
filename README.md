@@ -86,11 +86,11 @@ $ cat mission.txt
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiobaisme&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=8b949e&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiobaisme&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=8b949e&bg_color=0d1117&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiobaisme&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=8b949e&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiobaisme&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=8b949e&bg_color=0d1117&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Xiobaisme&theme=dark&hide_border=true&ring=00ff88&fire=f97316&currStreakLabel=00ff88&background=0D1117&stroke=30363d&dates=8b949e)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Xiobaisme&theme=dark&hide_border=true&ring=00ff88&fire=f97316&currStreakLabel=00ff88&background=0D1117&stroke=30363d&dates=8b949e)
 
 </div>
 
