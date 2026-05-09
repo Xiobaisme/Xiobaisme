@@ -44,7 +44,7 @@ $ cat mission.txt
 - 🔭 &nbsp;Currently building: crypto dashboards, bots & self-hosted tools
 - 🤖 &nbsp;Automation enthusiast — if it can be scripted, it will be
 - 📡 &nbsp;Always tracking the next airdrop opportunity
-- 🌏 &nbsp;Based in Jakarta, Indonesia
+- 🌏 &nbsp;Based in Indonesia
 
 ---
 
